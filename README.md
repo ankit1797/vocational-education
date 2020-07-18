@@ -1,6 +1,4 @@
-# Course App - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/8abMF1Y2Xnk)
+# Education App - Flutter UI
 
 **Packages we are using:**
 
